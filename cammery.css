@@ -1,0 +1,250 @@
+
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #9c4041;
+    font-family: "Montserrat", sans-serif;
+    
+ 
+
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+    
+}
+
+.halfbody{
+    background-image: url(PROJECT1.1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height:760px;
+    background-position: center;
+    background-size: cover;
+    
+}
+.nav_bar{
+    width: 100%;
+    height: 80px;
+    background:black
+  
+    
+}
+.image{
+    width: 20%;
+    float: left;
+}
+.mid{
+    width: 60%;
+    float: left;
+    padding : 20px;
+}
+.logo{
+    width: 132px;
+    padding-left: 100px;
+    padding-top: 20px;
+   
+    
+}
+.pic2{
+    padding-left: 10px;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    padding-inline: 13px;
+}
+.menu_bar{
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    letter-spacing:0px;
+    padding-right: 110px;
+   
+    
+}
+.main_body{
+width: 100%;
+height: 713px;
+float: left;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left{
+    width: 50%;
+    height: 730px;
+    background-color:#9c4041;
+    float: left;
+  
+
+    
+}
+.right{
+    width: 50%;
+    height: 730px;
+    background-color: #9c4041;
+    float: left;
+
+
+}
+
+
+.aboutus{
+    padding-left: 80px;
+    padding-top: 136px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    color: #ffff;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: -120px;
+
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
+.description{
+    font-size: 40px;
+    padding-left: 80px;
+    color: #fff;
+    padding-top: 120px;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+    .description2{
+        padding-left: 87px;
+        padding-top: 20px;
+        line-height:19px ;
+        font-size: 14px;
+        font-weight: 400;
+        color: #fff;
+       
+    }
+    .explore{
+        text-align: center;
+        margin-left: 87px;
+        margin-top: 20px;
+        vertical-align: middle;
+        width: 150px;
+        height: 55px;
+        background-color: #9c4041;
+        font-size: 15px;
+        color: rgb(188, 158, 51);
+        border-color:  rgb(188, 158, 51);
+        font-weight: bold;
+        border: 3px solid;
+        cursor: pointer;
+    }
+    .explore:hover{
+        background:rgb(188, 158, 51); 
+        border-color:rgb(188, 158, 51); ;
+        color: black;
+    }.footer{
+        width:100%;
+        height: 600px;
+       
+        float: left;
+    }
+    .f1{
+        width: 60%;
+        height: 250px;
+        float: left;
+        background-color: #363636;
+    }.f2{
+        width: 40%;
+        height:250px ;
+        float: left;
+        background-color: #363636;
+    }
+    .f3{
+        width: 33%;
+        height: 350px;
+        float: left;
+        background-color: #363636;
+    }
+    .f4{
+        width: 33%;
+        height: 350px;
+        float: left;
+        background-color: #363636;
+        color: rgb(188, 158, 51);
+
+    }
+    .f5{
+        width: 34%;
+        height: 350px;
+        float: left;
+        background-color: #363636;
+    }
+    .getin{
+        font-size: 32px;
+        padding-left:120px;
+        padding-top: 20px;
+        font-weight: 400;
+       
+        color:rgb(188, 158, 51); 
+       
+     }
+     .ifyou{
+        font-size: 15px;
+        padding-left:120px;
+        padding-top: 20px;
+       font-weight: bold;
+       
+        color:rgb(188, 158, 51); 
+        margin: -20px; 
+        margin-left: 3px;
+     }
+     .contact{
+        text-align: center;
+        margin-left: 200px;
+        margin-top: 60px;
+        vertical-align: middle;
+        width: 180px;
+        height: 55px;
+        background-color: #363636;
+        font-size: 15px;
+        color: rgb(188, 158, 51);
+        border-color:  rgb(188, 158, 51);
+        font-weight: bold;
+        border: 3px solid;
+        cursor: pointer;
+    }
+    .contact:hover{
+        background:rgb(188, 158, 51); 
+        border-color:rgb(188, 158, 51); ;
+        color: black;
+    }
+    .logo2{
+            width: 100px;
+            margin-top: 175px;
+
+     }
+     .adress{
+      padding-left: 110px;
+      padding-top: 86px;
+      color: rgb(188, 158, 51);
+    
+       
+     }
+     .fmenu{
+        line-height: 30px;
+        padding-left: 113px;
+        padding-top: 105px;
+        color: rgb(188, 158, 51);
+  
+     }
+     
+    
+     
